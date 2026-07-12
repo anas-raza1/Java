@@ -26,9 +26,9 @@ public class SwitchCase {
     }
 
     public static void main(String[] args) {
-    //by call
-    int e = getPrice();
-    System.out.println(e);
+        // by call
+        int e = getPrice();
+        System.out.println(e);
         // int switch case
         int item = 3;
         switch (item) {
