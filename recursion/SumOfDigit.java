@@ -1,4 +1,4 @@
-public class SumOfDigit {
+public class SumofDigit {
 
     static void sumOfDigit(int num, int sum) {
         // base case

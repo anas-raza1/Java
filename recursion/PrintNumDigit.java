@@ -1,4 +1,4 @@
-public class PrintDigit {
+public class PrintNumDigit {
 
     static void printDigit(int num) {
         // Base call
