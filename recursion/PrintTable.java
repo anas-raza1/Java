@@ -27,5 +27,6 @@ public class PrintTable{
         printTable(num, 10);
         String table = printTable2(num, 10);
         System.out.println(table);
+        scan.close();
     }
 }
