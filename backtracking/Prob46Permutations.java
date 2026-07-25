@@ -31,7 +31,7 @@ public class Prob46Permutations {
 
         Solution sol = new Solution();
 
-        int[] nums = { 1, 2, 3 };
+        int[] nums = { 1, 2, 3,4 };
 
         List<List<Integer>> ans = sol.permute(nums);
 
