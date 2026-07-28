@@ -10,4 +10,4 @@ public class ReverseNum {
         }
         System.out.println("Reverse number: " + reverse);
     }
-}
+} 
