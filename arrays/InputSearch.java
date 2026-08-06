@@ -1,4 +1,5 @@
-package Java.arrays;
+package arrays;
+
 import java.util.*;
 
 public class InputSearch {
