@@ -2,7 +2,7 @@ package sorting;
 
 public class InsertionSort {
     public static void main(String[] args) {
-         int[] arr = { 7, 8, 4, 9, 1 };
+         int[] arr = { 7, 8, 4, 9, 1 ,0};
         //time complexity O(n^2)
         for(int i =1;i<arr.length;i++){
             int current = arr[i];
