@@ -1,6 +1,6 @@
 public class SumOfDigit {
     public static void main(String[] args) {
-        int num = 123;
+        int num = 1234;
         int sum = 0;
         while (num != 0) {
             int lastDigit = num % 10;
