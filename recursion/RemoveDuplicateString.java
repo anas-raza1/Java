@@ -10,7 +10,7 @@ public class RemoveDuplicateString{
         }
     }
     public static void main(String[] args) {
-        String str = "aavvvddvvdss";
+        String str = "aaaavvvddsvvdss";
         System.out.println(remDuplicate(str));
     }
 }
